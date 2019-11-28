@@ -1,0 +1,6 @@
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Framework\bin\Debug\ExcelAddIn.Framework.dll
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Framework\bin\Debug\ExcelAddIn.Framework.pdb
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Framework\obj\Debug\ExcelAddIn.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Framework\obj\Debug\ExcelAddIn.Framework.dll
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Framework\obj\Debug\ExcelAddIn.Framework.pdb
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Framework\obj\Debug\ExcelAddIn.Framework.csprojAssemblyReference.cache

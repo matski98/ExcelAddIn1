@@ -1,0 +1,9 @@
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Model\bin\Debug\netstandard2.0\ExcelAddIn.Model.deps.json
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Model\bin\Debug\netstandard2.0\ExcelAddIn.Model.dll
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Model\bin\Debug\netstandard2.0\ExcelAddIn.Model.pdb
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Model\obj\Debug\netstandard2.0\ExcelAddIn.Model.csproj.CoreCompileInputs.cache
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Model\obj\Debug\netstandard2.0\ExcelAddIn.Model.AssemblyInfoInputs.cache
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Model\obj\Debug\netstandard2.0\ExcelAddIn.Model.AssemblyInfo.cs
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Model\obj\Debug\netstandard2.0\ExcelAddIn.Model.dll
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Model\obj\Debug\netstandard2.0\ExcelAddIn.Model.pdb
+C:\Users\Praktykant\source\repos\ExcelAddIn1\ExcelAddIn.Model\obj\Debug\netstandard2.0\ExcelAddIn.Model.csprojAssemblyReference.cache

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn.Excel", "ExcelAddIn1\ExcelAddIn.Excel.csproj", "{9E113350-9857-4B7A-94DF-DC0E970D363B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelAddIn.Model", "ExcelAddIn.Model\ExcelAddIn.Model.csproj", "{0B3DCD55-DF89-4774-AC62-4DA2262ED497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn.GUI", "WindowsFormsApp1\ExcelAddIn.GUI.csproj", "{F65AEC50-84BB-480A-833B-2577868F959E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn.Application", "ExcelAddIn.Application\ExcelAddIn.Application.csproj", "{3B24A365-DC3E-47AB-8AB8-6B25BF2B193E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn.Framework", "ExcelAddIn.Framework\ExcelAddIn.Framework.csproj", "{0C3F4B5B-2FF9-4782-A9DA-4DAD0E128AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn.Launcher", "ExcelAddIn.Launcher\ExcelAddIn.Launcher.csproj", "{795FC7B0-F3EB-40EE-AF41-6C9E1CC87F61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn.Presenter", "ExcelAddIn.Presenter\ExcelAddIn.Presenter.csproj", "{44D58672-CFBE-4417-90CD-C9B1CFCA6E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E113350-9857-4B7A-94DF-DC0E970D363B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E113350-9857-4B7A-94DF-DC0E970D363B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E113350-9857-4B7A-94DF-DC0E970D363B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E113350-9857-4B7A-94DF-DC0E970D363B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3DCD55-DF89-4774-AC62-4DA2262ED497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3DCD55-DF89-4774-AC62-4DA2262ED497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3DCD55-DF89-4774-AC62-4DA2262ED497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3DCD55-DF89-4774-AC62-4DA2262ED497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65AEC50-84BB-480A-833B-2577868F959E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65AEC50-84BB-480A-833B-2577868F959E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65AEC50-84BB-480A-833B-2577868F959E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65AEC50-84BB-480A-833B-2577868F959E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B24A365-DC3E-47AB-8AB8-6B25BF2B193E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B24A365-DC3E-47AB-8AB8-6B25BF2B193E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B24A365-DC3E-47AB-8AB8-6B25BF2B193E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B24A365-DC3E-47AB-8AB8-6B25BF2B193E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3F4B5B-2FF9-4782-A9DA-4DAD0E128AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3F4B5B-2FF9-4782-A9DA-4DAD0E128AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3F4B5B-2FF9-4782-A9DA-4DAD0E128AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3F4B5B-2FF9-4782-A9DA-4DAD0E128AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795FC7B0-F3EB-40EE-AF41-6C9E1CC87F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795FC7B0-F3EB-40EE-AF41-6C9E1CC87F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795FC7B0-F3EB-40EE-AF41-6C9E1CC87F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795FC7B0-F3EB-40EE-AF41-6C9E1CC87F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D58672-CFBE-4417-90CD-C9B1CFCA6E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D58672-CFBE-4417-90CD-C9B1CFCA6E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D58672-CFBE-4417-90CD-C9B1CFCA6E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D58672-CFBE-4417-90CD-C9B1CFCA6E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3655B162-3DDB-4281-8851-DB0086CA4C22}
+	EndGlobalSection
+EndGlobal
